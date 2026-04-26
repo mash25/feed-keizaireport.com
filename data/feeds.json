@@ -1,0 +1,302 @@
+[
+  {
+    "feed_title": "日本経済・財政",
+    "url": "http://xml.keizaireport.com/rss/node_2.xml"
+  },
+  {
+    "feed_title": "経営総合",
+    "url": "http://xml.keizaireport.com/rss/node_3.xml"
+  },
+  {
+    "feed_title": "金融総合",
+    "url": "http://xml.keizaireport.com/rss/node_4.xml"
+  },
+  {
+    "feed_title": "産業総合",
+    "url": "http://xml.keizaireport.com/rss/node_5.xml"
+  },
+  {
+    "feed_title": "海外経済・国際機関",
+    "url": "http://xml.keizaireport.com/rss/node_6.xml"
+  },
+  {
+    "feed_title": "経済見通し",
+    "url": "http://xml.keizaireport.com/rss/node_7.xml"
+  },
+  {
+    "feed_title": "環境・リサイクル",
+    "url": "http://xml.keizaireport.com/rss/node_9.xml"
+  },
+  {
+    "feed_title": "インターネット",
+    "url": "http://xml.keizaireport.com/rss/node_10.xml"
+  },
+  {
+    "feed_title": "経済全般",
+    "url": "http://xml.keizaireport.com/rss/node_11.xml"
+  },
+  {
+    "feed_title": "行政・財政",
+    "url": "http://xml.keizaireport.com/rss/node_12.xml"
+  },
+  {
+    "feed_title": "経営全般",
+    "url": "http://xml.keizaireport.com/rss/node_14.xml"
+  },
+  {
+    "feed_title": "経営IT",
+    "url": "http://xml.keizaireport.com/rss/node_15.xml"
+  },
+  {
+    "feed_title": "経理・会計・財務",
+    "url": "http://xml.keizaireport.com/rss/node_16.xml"
+  },
+  {
+    "feed_title": "雇用・人材・労働",
+    "url": "http://xml.keizaireport.com/rss/node_18.xml"
+  },
+  {
+    "feed_title": "知的財産・研究開発",
+    "url": "http://xml.keizaireport.com/rss/node_19.xml"
+  },
+  {
+    "feed_title": "金融全般",
+    "url": "http://xml.keizaireport.com/rss/node_20.xml"
+  },
+  {
+    "feed_title": "銀行・金融機関",
+    "url": "http://xml.keizaireport.com/rss/node_21.xml"
+  },
+  {
+    "feed_title": "保険・年金",
+    "url": "http://xml.keizaireport.com/rss/node_22.xml"
+  },
+  {
+    "feed_title": "株式・債券・不動産投資",
+    "url": "http://xml.keizaireport.com/rss/node_24.xml"
+  },
+  {
+    "feed_title": "ノンバンク",
+    "url": "http://xml.keizaireport.com/rss/node_25.xml"
+  },
+  {
+    "feed_title": "外国為替・通貨",
+    "url": "http://xml.keizaireport.com/rss/node_26.xml"
+  },
+  {
+    "feed_title": "産業全般",
+    "url": "http://xml.keizaireport.com/rss/node_28.xml"
+  },
+  {
+    "feed_title": "建設・住宅・建材",
+    "url": "http://xml.keizaireport.com/rss/node_29.xml"
+  },
+  {
+    "feed_title": "食品・食生活",
+    "url": "http://xml.keizaireport.com/rss/node_30.xml"
+  },
+  {
+    "feed_title": "繊維・アパレル",
+    "url": "http://xml.keizaireport.com/rss/node_31.xml"
+  },
+  {
+    "feed_title": "製薬・医薬品",
+    "url": "http://xml.keizaireport.com/rss/node_33.xml"
+  },
+  {
+    "feed_title": "窯業・セメント",
+    "url": "http://xml.keizaireport.com/rss/node_34.xml"
+  },
+  {
+    "feed_title": "鉄鋼・非鉄・金属製品",
+    "url": "http://xml.keizaireport.com/rss/node_35.xml"
+  },
+  {
+    "feed_title": "機械・電気機器",
+    "url": "http://xml.keizaireport.com/rss/node_36.xml"
+  },
+  {
+    "feed_title": "輸送用機器",
+    "url": "http://xml.keizaireport.com/rss/node_37.xml"
+  },
+  {
+    "feed_title": "その他製造業",
+    "url": "http://xml.keizaireport.com/rss/node_38.xml"
+  },
+  {
+    "feed_title": "卸売・商社",
+    "url": "http://xml.keizaireport.com/rss/node_39.xml"
+  },
+  {
+    "feed_title": "物流・倉庫・輸送",
+    "url": "http://xml.keizaireport.com/rss/node_41.xml"
+  },
+  {
+    "feed_title": "交通・鉄道・航空",
+    "url": "http://xml.keizaireport.com/rss/node_42.xml"
+  },
+  {
+    "feed_title": "旅行・ホテル・娯楽",
+    "url": "http://xml.keizaireport.com/rss/node_43.xml"
+  },
+  {
+    "feed_title": "情報通信・放送",
+    "url": "http://xml.keizaireport.com/rss/node_44.xml"
+  },
+  {
+    "feed_title": "資源・エネルギー",
+    "url": "http://xml.keizaireport.com/rss/node_45.xml"
+  },
+  {
+    "feed_title": "広告・出版・コンテンツ",
+    "url": "http://xml.keizaireport.com/rss/node_48.xml"
+  },
+  {
+    "feed_title": "産業・その他",
+    "url": "http://xml.keizaireport.com/rss/node_50.xml"
+  },
+  {
+    "feed_title": "産業見通し",
+    "url": "http://xml.keizaireport.com/rss/node_51.xml"
+  },
+  {
+    "feed_title": "海外経済全般",
+    "url": "http://xml.keizaireport.com/rss/node_52.xml"
+  },
+  {
+    "feed_title": "米国全般",
+    "url": "http://xml.keizaireport.com/rss/node_53.xml"
+  },
+  {
+    "feed_title": "中国",
+    "url": "http://xml.keizaireport.com/rss/node_64.xml"
+  },
+  {
+    "feed_title": "台湾",
+    "url": "http://xml.keizaireport.com/rss/node_65.xml"
+  },
+  {
+    "feed_title": "韓国・北朝鮮",
+    "url": "http://xml.keizaireport.com/rss/node_66.xml"
+  },
+  {
+    "feed_title": "世界経済見通し(見通し全般)",
+    "url": "http://xml.keizaireport.com/rss/node_75.xml"
+  },
+  {
+    "feed_title": "日本経済見通し",
+    "url": "http://xml.keizaireport.com/rss/node_76.xml"
+  },
+  {
+    "feed_title": "欧米経済見通し",
+    "url": "http://xml.keizaireport.com/rss/node_77.xml"
+  },
+  {
+    "feed_title": "アジア経済見通し",
+    "url": "http://xml.keizaireport.com/rss/node_78.xml"
+  },
+  {
+    "feed_title": "農林水産",
+    "url": "http://xml.keizaireport.com/rss/node_102.xml"
+  },
+  {
+    "feed_title": "情報通信・放送全般",
+    "url": "http://xml.keizaireport.com/rss/node_103.xml"
+  },
+  {
+    "feed_title": "地球環境・温暖化問題",
+    "url": "http://xml.keizaireport.com/rss/node_110.xml"
+  },
+  {
+    "feed_title": "廃棄物・リサイクル",
+    "url": "http://xml.keizaireport.com/rss/node_111.xml"
+  },
+  {
+    "feed_title": "化学物質・土壌汚染・水環境",
+    "url": "http://xml.keizaireport.com/rss/node_112.xml"
+  },
+  {
+    "feed_title": "不動産・都市開発",
+    "url": "http://xml.keizaireport.com/rss/node_113.xml"
+  },
+  {
+    "feed_title": "地方自治・行財政",
+    "url": "http://xml.keizaireport.com/rss/node_114.xml"
+  },
+  {
+    "feed_title": "アフリカ",
+    "url": "http://xml.keizaireport.com/rss/node_124.xml"
+  },
+  {
+    "feed_title": "教育サービス・科学技術",
+    "url": "http://xml.keizaireport.com/rss/node_125.xml"
+  },
+  {
+    "feed_title": "欧州",
+    "url": "http://xml.keizaireport.com/rss/node_128.xml"
+  },
+  {
+    "feed_title": "中東欧",
+    "url": "http://xml.keizaireport.com/rss/node_129.xml"
+  },
+  {
+    "feed_title": "農業・畜産業",
+    "url": "http://xml.keizaireport.com/rss/node_131.xml"
+  },
+  {
+    "feed_title": "漁業・水産業",
+    "url": "http://xml.keizaireport.com/rss/node_132.xml"
+  },
+  {
+    "feed_title": "林業",
+    "url": "http://xml.keizaireport.com/rss/node_133.xml"
+  },
+  {
+    "feed_title": "マーケティング・セールス",
+    "url": "http://xml.keizaireport.com/rss/node_134.xml"
+  },
+  {
+    "feed_title": "政治・行政・財政",
+    "url": "http://xml.keizaireport.com/rss/node_135.xml"
+  },
+  {
+    "feed_title": "環境ビジネス・水道事業",
+    "url": "http://xml.keizaireport.com/rss/node_151.xml"
+  },
+  {
+    "feed_title": "米国",
+    "url": "http://xml.keizaireport.com/rss/node_163.xml"
+  },
+  {
+    "feed_title": "中小企業",
+    "url": "http://xml.keizaireport.com/rss/node_169.xml"
+  },
+  {
+    "feed_title": "化学・化粧品",
+    "url": "http://xml.keizaireport.com/rss/node_184.xml"
+  },
+  {
+    "feed_title": "小売・外食",
+    "url": "http://xml.keizaireport.com/rss/node_188.xml"
+  },
+  {
+    "feed_title": "小売業",
+    "url": "http://xml.keizaireport.com/rss/node_189.xml"
+  },
+  {
+    "feed_title": "外食業・飲食業",
+    "url": "http://xml.keizaireport.com/rss/node_190.xml"
+  },
+  {
+    "feed_title": "金融政策・中央銀行・金融当局",
+    "url": "http://xml.keizaireport.com/rss/node_191.xml"
+  },
+  {
+    "feed_title": "日本経済",
+    "url": "http://xml.keizaireport.com/rss/node_196.xml"
+  },
+  {
+    "feed_title": "証券市場・証券業・資産運用業",
+    "url": "http://xml.keizaireport.com/rss/node_197.xml"
+  }
+]
